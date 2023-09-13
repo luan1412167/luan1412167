@@ -1,9 +1,10 @@
 
 ### Hi there 👋
 
-## I'm an AI developer focusing Computer Vision, NLP!
+## I'm an AI developer focusing on Computer Vision, NLP!
 
-- 🔭 I have 6 years experience in AI field!
+- 🔭 I have 6 years of experience in the AI field!
+- 🔭 I have much time to research face tasks, object tasks, tracking, OCR, Transformer, BERT, Chatbot ...!
 - 🌱 I handed on multiple models and tried many papers!
 
 ### Connect with me:
