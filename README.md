@@ -3,7 +3,7 @@
 
 ## I'm an AI developer focusing Computer Vision, NLP!
 
-- 🔭 I have 6 years experence in AI field!
+- 🔭 I have 6 years experience in AI field!
 - 🌱 I handed on multiple models and tried many papers!
 
 ### Connect with me:
