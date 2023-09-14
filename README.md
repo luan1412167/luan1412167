@@ -5,7 +5,6 @@
 
 - 🔭 I have 6 years of experience in the AI field!
 - 🔭 I have much time to research in deep face tasks, object tasks, tracking, OCR, Transformer, BERT, GPT, LLAMA ...!
-- 🌱 I handed on multiple models and tried many papers!
 
 ### Connect with me:
 
