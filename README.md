@@ -30,5 +30,5 @@
 
 ---
 
-[twitter]: https://twitter.com/Imlarrylu
+[twitter]: https://twitter.com/CryptonewsVN
 [linkedin]: https://www.linkedin.com/in/luandaoduy96/
